@@ -3,7 +3,7 @@ CEF WITH SYPHON
 
 This is an application for Mac OS X which makes it poosible to share the contents of a web browser (based on Chrome) using Syphon. It implements most of the things you'd expect except pop up windows (at the moment). Complicated html pages do not run as fast as a real Chrome browser but e.g. Flash and WebGL seems to run smoothly.
 
-Build the code or download CefWithSyphon.zip from the project
+Build the code or download the CefWithSyphon application from here: http://udart.dk/downloads/CefWithSyphon/
 
 DISCLAIMER
 ----------
